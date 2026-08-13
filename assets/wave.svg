@@ -1,0 +1,14 @@
+<svg width="820" height="36" viewBox="0 0 820 36" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="wg" x1="0" y1="0" x2="820" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00BFFF" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#7B2FFF" stop-opacity="1"/>
+      <stop offset="1" stop-color="#FF3D81" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0;-60 0;0 0" dur="5s" repeatCount="indefinite"/>
+    <path d="M0 18 Q 102 4 205 18 T 410 18 T 615 18 T 820 18 L 820 36 L 0 36 Z" fill="url(#wg)" opacity="0.5"/>
+    <path d="M0 18 Q 102 30 205 18 T 410 18 T 615 18 T 820 18 L 820 36 L 0 36 Z" fill="url(#wg)" opacity="0.25"/>
+  </g>
+</svg>

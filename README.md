@@ -1,16 +1,23 @@
+<p align="center">
+  <img src="assets/banner.svg" alt="orewamash banner" />
+</p>
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=32&duration=2800&pause=700&color=00BFFF&center=true&vCenter=true&width=640&height=70&lines=Hi%2C+I%27m+orewamash+%F0%9F%91%8B;Full-Stack+%26+AI+Developer;Turning+ideas+into+products+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&duration=2800&pause=700&color=00BFFF&center=true&vCenter=true&width=620&height=50&lines=Hi%2C+I%27m+orewamash+%F0%9F%91%8B;Turning+ideas+into+products+%F0%9F%9A%80;Code+hard%2C+ship+often+%E2%9A%A1" alt="Typing SVG" />
 
 <a href="https://github.com/orewamash"><img src="https://komarev.com/ghpvc/?username=orewamash&style=for-the-badge&color=0e75b6" alt="Profile views" /></a>
 <img src="https://img.shields.io/github/followers/orewamash?style=for-the-badge&logo=github&color=0e75b6" alt="Followers" />
-<a href="https://github.com/orewamash?tab=repositories"><img src="https://img.shields.io/github/stars/orewamash?style=for-the-badge&color=purple" alt="Total stars" /></a>
+<img src="https://img.shields.io/github/stars/orewamash?style=for-the-badge&color=purple" alt="Total stars" />
+<img src="https://img.shields.io/github/repo-size/orewamash/orewamash?style=for-the-badge&color=darkred" alt="Repo size" />
 
 </div>
 
----
+<img src="assets/wave.svg" alt="wave" />
 
 ## 🚀 About Me
+
+<img src="assets/status.svg" alt="status" />
 
 - 🧠 Building AI-powered tools and full-stack applications
 - 🎓 Engineering student at Saveetha School of Engineering, SIMATS
@@ -33,6 +40,8 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 📈 GitHub Stats
 
@@ -62,8 +71,20 @@
 
 </div>
 
+## ✨ Powered By
+
+<div align="center">
+
+<img src="assets/orbit.svg" alt="orbit" width="160" />
+
+</div>
+
+<img src="assets/wave.svg" alt="wave" />
+
 ---
 
 <p align="center">
   <i>Thanks for visiting! Come back anytime 😄</i>
+  <br />
+  <img src="https://img.shields.io/badge/-Open%20to%20collaborations-0e75b6?style=flat-square" alt="collab" />
 </p>

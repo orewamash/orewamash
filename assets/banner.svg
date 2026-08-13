@@ -1,0 +1,24 @@
+<svg width="640" height="170" viewBox="0 0 640 170" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="shimmer" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00BFFF">
+        <animate attributeName="stop-color" values="#00BFFF;#7B2FFF;#FF3D81;#00BFFF" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#7B2FFF">
+        <animate attributeName="stop-color" values="#7B2FFF;#FF3D81;#00BFFF;#7B2FFF" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#FF3D81">
+        <animate attributeName="stop-color" values="#FF3D81;#00BFFF;#7B2FFF;#FF3D81" dur="6s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#00BFFF" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#00BFFF" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <ellipse cx="320" cy="85" rx="300" ry="70" fill="url(#glow)">
+    <animate attributeName="opacity" values="0.6;1;0.6" dur="3s" repeatCount="indefinite"/>
+  </ellipse>
+  <text x="320" y="95" text-anchor="middle" font-family="monospace" font-size="62" font-weight="bold" fill="url(#shimmer)">orewamash</text>
+  <text x="320" y="140" text-anchor="middle" font-family="monospace" font-size="20" fill="#8b949e">Full-Stack &amp; AI Developer</text>
+</svg>
