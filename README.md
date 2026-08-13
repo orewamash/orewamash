@@ -47,11 +47,24 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=orewamash&show_icons=true&count_private=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=orewamash&layout=compact&theme=radical&hide_border=true&langs_count=8)
+<img src="https://img.shields.io/github/stars/orewamash?style=for-the-badge&color=purple" alt="Stars" />
+<img src="https://img.shields.io/github/followers/orewamash?style=for-the-badge&logo=github&color=0e75b6" alt="Followers" />
+<img src="https://img.shields.io/badge/Public_Repos-6-2ea44f?style=for-the-badge" alt="Public repos" />
+<img src="https://img.shields.io/github/watchers/orewamash/orewamash?style=for-the-badge&logo=github&color=ff69b4" alt="Watchers" />
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=orewamash&theme=radical&hide_border=true)
+
+</div>
+
+## 🧰 Top Languages
+
+<div align="center">
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
 </div>
 
