@@ -25,6 +25,21 @@
 - 🤖 Creator of **morpheus** — a self-evolving execution intelligence system
 - ⚡ Fun fact: I name my projects like they're sci-fi characters
 
+## 🤖 Currently Into
+
+<div align="center">
+
+![Vibe Coding](https://img.shields.io/badge/Vibe_Coding-FF6B35?style=for-the-badge&logo=openai&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=huggingface&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-10A37F?style=for-the-badge&logo=openai&logoColor=white)
+![Fine-tuning](https://img.shields.io/badge/Fine--tuning-5D2E8C?style=for-the-badge&logo=python&logoColor=white)
+![Embeddings](https://img.shields.io/badge/Embeddings-6C5CE7?style=for-the-badge&logo=python&logoColor=white)
+
+</div>
+
+- ⚡ **Vibe coding** — shipping fast with AI as my co-pilot
+- 🧬 Learning **RAG**, **fine-tuning**, **embeddings** & **LLMs** to build smarter AI apps
+
 ## 🛠️ Tech Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
